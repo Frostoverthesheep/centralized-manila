@@ -2,5 +2,3 @@
 .DS_Store
 dist
 dist-ssr
-backend/package.json
-backend/package-lock.json
